@@ -1,0 +1,1 @@
+objective: to know how ubuntu and vagrant surroundings are handled
